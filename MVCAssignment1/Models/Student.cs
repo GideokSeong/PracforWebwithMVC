@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnivApp.Models {
+namespace MVCAssignment1.Models {
 	public class Student {
 
 		public int ID { get; set; }

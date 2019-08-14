@@ -28,9 +28,8 @@ C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcore
 C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\MVCAssignment1.dll
 C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\MVCAssignment1.pdb
 C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\MVCAssignment1.csproj.CopyComplete
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
-C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index2.g.cshtml.cs
+C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Student\List.g.cshtml.cs
+C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\prathamesh\source\repos\MVCAssignment1\MVCAssignment1\obj\Debug\netcoreapp2.2\Razor\Views\Student\Details.g.cshtml.cs

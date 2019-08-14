@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace UnivApp.Models
+namespace MVCAssignment1.Models
 {
     public class SchoolContext : DbContext
     {
@@ -12,8 +12,8 @@ namespace UnivApp.Models
             : base(options)
         {
         }
-
-		public DbSet<Student> Student { get; set; }
+				
+				public DbSet<Student> Student { get; set; }
 		
-	}
+		}
 }

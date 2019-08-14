@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnivApp{
+namespace MVCAssignment1{
 
 		public class PaginatedList<T> : List<T> 
 		{

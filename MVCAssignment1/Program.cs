@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using UnivApp.Models;
+using MVCAssignment1.Models;
 
 namespace MVCAssignment1 {
 	public class Program {
